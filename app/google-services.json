@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "246774607173",
+    "firebase_url": "https://loginupb-91300-default-rtdb.firebaseio.com",
+    "project_id": "loginupb-91300",
+    "storage_bucket": "loginupb-91300.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246774607173:android:6e71205c3b85b7f99ca22c",
+        "android_client_info": {
+          "package_name": "com.example.loginupb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBniCCHTjh_854YTzNc_q-n8U4p7UOqZpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
